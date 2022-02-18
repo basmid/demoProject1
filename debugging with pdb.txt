@@ -1,0 +1,10 @@
+import pdb
+
+pdb.set_trace()
+
+once in the breakpoint(Interactive) here are options
+- c = continue
+- n = next(stop after executing the next line within current function)
+- s = step(stop as soon as possible even in a called function)
+- l = show location
+- pp = pretty print

@@ -1,0 +1,4 @@
+name,department,birthday month, birthday year
+John Smith,Accounting,November, 1982
+Erica Meyers,IT,March, 1984
+Robert Tony, IT, April, 1980
